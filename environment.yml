@@ -9,6 +9,8 @@ dependencies:
   - scikit-learn
   - matplotlib
   - jupyter
+  - flake8
+  - pytest
   - pip
   - pip:
     - biopython
