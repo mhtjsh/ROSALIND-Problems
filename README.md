@@ -13,4 +13,4 @@ I am initiating this repository as a collaborative project and invite you to con
 ## 🛠️ Problems List
 | **Problem ID** | **Title** | Solution |
 | -- | -- | -- |
-| DNA | [Counting DNA Nucleotides](https://rosalind.info/problems/dna/) | 
+| DNA | [Counting DNA Nucleotides](https://rosalind.info/problems/dna/) | Readme (Python + Biopython)
